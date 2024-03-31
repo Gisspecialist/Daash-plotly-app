@@ -13,3 +13,4 @@ scikit_learn
 setuptools
 gunicorn
 dash-tools
+openpyxl
