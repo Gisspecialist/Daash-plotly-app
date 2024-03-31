@@ -1,7 +1,7 @@
-dash==2.9.2
-dash_bootstrap_components==1.5.0
+dash
+dash_bootstrap_components
 dash_iconify==0.1.2
-dash_leaflet==1.0.15
+dash_leaflet
 dash_mantine_components==0.12.0
 fast_dash==0.2.9
 numpy==1.26.4
